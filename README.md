@@ -39,6 +39,7 @@ import ua_parser.Client;
 Author:
 -------
 
+  * Yingbo Miao [Homepage](http://yingbo.miao.fm), [@yingbo](https://twitter.com/yingbo) 
   * Steve Jiang [@sjiang](https://twitter.com/sjiang)
 
   Based on the python implementation by Lindsey Simon and using agent data from BrowserScope
